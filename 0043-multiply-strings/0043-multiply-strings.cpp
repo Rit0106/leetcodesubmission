@@ -25,7 +25,7 @@ public:
 
             }
         }
-        return answer.empty()? "0" : answer;
+        return answer;
 
         
 
