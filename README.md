@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Rit0106/leetcodesubmission/tree/master/0812-rotate-string) |
+| [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Rit0106/leetcodesubmission/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 ## Simulation
 |  |
 | ------- |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/0451-sort-characters-by-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Rit0106/leetcodesubmission/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+## Greedy
+|  |
+| ------- |
+| [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Rit0106/leetcodesubmission/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 <!---LeetCode Topics End-->
