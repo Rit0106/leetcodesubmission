@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Rit0106/leetcodesubmission/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/Rit0106/leetcodesubmission/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/0415-add-strings) |
+| [0900-reordered-power-of-2](https://github.com/Rit0106/leetcodesubmission/tree/master/0900-reordered-power-of-2) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rit0106/leetcodesubmission/tree/master/0204-count-primes) |
+| [0900-reordered-power-of-2](https://github.com/Rit0106/leetcodesubmission/tree/master/0900-reordered-power-of-2) |
 ## Number Theory
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/0451-sort-characters-by-frequency) |
+| [0900-reordered-power-of-2](https://github.com/Rit0106/leetcodesubmission/tree/master/0900-reordered-power-of-2) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/Rit0106/leetcodesubmission/tree/master/2502-sort-the-people) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/0451-sort-characters-by-frequency) |
+| [0900-reordered-power-of-2](https://github.com/Rit0106/leetcodesubmission/tree/master/0900-reordered-power-of-2) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Rit0106/leetcodesubmission/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Rit0106/leetcodesubmission/tree/master/2502-sort-the-people) |
@@ -80,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/0451-sort-characters-by-frequency) |
+| [0900-reordered-power-of-2](https://github.com/Rit0106/leetcodesubmission/tree/master/0900-reordered-power-of-2) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/2308-divide-array-into-equal-pairs) |
 ## Two Pointers
 |  |
