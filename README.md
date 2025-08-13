@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Rit0106/leetcodesubmission/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/Rit0106/leetcodesubmission/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/Rit0106/leetcodesubmission/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Rit0106/leetcodesubmission/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/0415-add-strings) |
 | [0670-maximum-swap](https://github.com/Rit0106/leetcodesubmission/tree/master/0670-maximum-swap) |
 | [0900-reordered-power-of-2](https://github.com/Rit0106/leetcodesubmission/tree/master/0900-reordered-power-of-2) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rit0106/leetcodesubmission/tree/master/0067-add-binary) |
+| [0342-power-of-four](https://github.com/Rit0106/leetcodesubmission/tree/master/0342-power-of-four) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/2308-divide-array-into-equal-pairs) |
 ## Linked List
 |  |
@@ -117,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Rit0106/leetcodesubmission/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Rit0106/leetcodesubmission/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
