@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Rit0106/leetcodesubmission/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/Rit0106/leetcodesubmission/tree/master/0204-count-primes) |
+| [0326-power-of-three](https://github.com/Rit0106/leetcodesubmission/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/0415-add-strings) |
 | [0670-maximum-swap](https://github.com/Rit0106/leetcodesubmission/tree/master/0670-maximum-swap) |
 | [0900-reordered-power-of-2](https://github.com/Rit0106/leetcodesubmission/tree/master/0900-reordered-power-of-2) |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rit0106/leetcodesubmission/tree/master/0160-intersection-of-two-linked-lists) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Rit0106/leetcodesubmission/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
