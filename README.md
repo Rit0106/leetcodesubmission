@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rit0106/leetcodesubmission/tree/master/0204-count-primes) |
+| [0413-arithmetic-slices](https://github.com/Rit0106/leetcodesubmission/tree/master/0413-arithmetic-slices) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rit0106/leetcodesubmission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Rit0106/leetcodesubmission/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -160,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0148-sort-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0413-arithmetic-slices](https://github.com/Rit0106/leetcodesubmission/tree/master/0413-arithmetic-slices) |
+## Sliding Window
+|  |
+| ------- |
+| [0413-arithmetic-slices](https://github.com/Rit0106/leetcodesubmission/tree/master/0413-arithmetic-slices) |
 <!---LeetCode Topics End-->
