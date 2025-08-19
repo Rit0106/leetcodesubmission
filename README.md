@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Rit0106/leetcodesubmission/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Rit0106/leetcodesubmission/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Rit0106/leetcodesubmission/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Rit0106/leetcodesubmission/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2502-sort-the-people](https://github.com/Rit0106/leetcodesubmission/tree/master/2502-sort-the-people) |
 ## Simulation
 |  |
