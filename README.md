@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Rit0106/leetcodesubmission/tree/master/0413-arithmetic-slices) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rit0106/leetcodesubmission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Rit0106/leetcodesubmission/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rit0106/leetcodesubmission/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Rit0106/leetcodesubmission/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/1752-arithmetic-subarrays) |
@@ -177,6 +178,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Rit0106/leetcodesubmission/tree/master/0413-arithmetic-slices) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rit0106/leetcodesubmission/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rit0106/leetcodesubmission/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rit0106/leetcodesubmission/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rit0106/leetcodesubmission/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
