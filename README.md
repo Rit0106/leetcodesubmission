@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rit0106/leetcodesubmission/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Rit0106/leetcodesubmission/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/Rit0106/leetcodesubmission/tree/master/0342-power-of-four) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/2308-divide-array-into-equal-pairs) |
 ## Linked List
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/Rit0106/leetcodesubmission/tree/master/0190-reverse-bits) |
 ## Merge Sort
 |  |
 | ------- |
