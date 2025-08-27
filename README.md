@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rit0106/leetcodesubmission/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Rit0106/leetcodesubmission/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Rit0106/leetcodesubmission/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Rit0106/leetcodesubmission/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/0205-isomorphic-strings) |
 | [0415-add-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/0415-add-strings) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rit0106/leetcodesubmission/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Rit0106/leetcodesubmission/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0143-reorder-list) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rit0106/leetcodesubmission/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
