@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rit0106/leetcodesubmission/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Rit0106/leetcodesubmission/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2502-sort-the-people](https://github.com/Rit0106/leetcodesubmission/tree/master/2502-sort-the-people) |
+| [3412-permutation-difference-between-two-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/3412-permutation-difference-between-two-strings) |
 ## Simulation
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/2308-divide-array-into-equal-pairs) |
 | [2486-most-frequent-even-element](https://github.com/Rit0106/leetcodesubmission/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Rit0106/leetcodesubmission/tree/master/2502-sort-the-people) |
+| [3412-permutation-difference-between-two-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/3412-permutation-difference-between-two-strings) |
 ## Sorting
 |  |
 | ------- |
