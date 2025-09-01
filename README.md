@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Rit0106/leetcodesubmission/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/1752-arithmetic-subarrays) |
+| [1839-decode-xored-array](https://github.com/Rit0106/leetcodesubmission/tree/master/1839-decode-xored-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rit0106/leetcodesubmission/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Rit0106/leetcodesubmission/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Rit0106/leetcodesubmission/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Rit0106/leetcodesubmission/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/Rit0106/leetcodesubmission/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Rit0106/leetcodesubmission/tree/master/0342-power-of-four) |
+| [1839-decode-xored-array](https://github.com/Rit0106/leetcodesubmission/tree/master/1839-decode-xored-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/2308-divide-array-into-equal-pairs) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Rit0106/leetcodesubmission/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Linked List
