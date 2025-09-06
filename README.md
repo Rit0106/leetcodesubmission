@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Rit0106/leetcodesubmission/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Rit0106/leetcodesubmission/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Rit0106/leetcodesubmission/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Rit0106/leetcodesubmission/tree/master/3644-minimum-positive-sum-subarray) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Rit0106/leetcodesubmission/tree/master/0342-power-of-four) |
 | [1839-decode-xored-array](https://github.com/Rit0106/leetcodesubmission/tree/master/1839-decode-xored-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/2308-divide-array-into-equal-pairs) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Rit0106/leetcodesubmission/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Linked List
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rit0106/leetcodesubmission/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Rit0106/leetcodesubmission/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rit0106/leetcodesubmission/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Rit0106/leetcodesubmission/tree/master/3644-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
