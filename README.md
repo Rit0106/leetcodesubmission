@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rit0106/leetcodesubmission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0812-rotate-string](https://github.com/Rit0106/leetcodesubmission/tree/master/0812-rotate-string) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Rit0106/leetcodesubmission/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rit0106/leetcodesubmission/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rit0106/leetcodesubmission/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Rit0106/leetcodesubmission/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rit0106/leetcodesubmission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0900-reordered-power-of-2](https://github.com/Rit0106/leetcodesubmission/tree/master/0900-reordered-power-of-2) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Rit0106/leetcodesubmission/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/1752-arithmetic-subarrays) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Rit0106/leetcodesubmission/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
