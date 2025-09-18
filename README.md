@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/1752-arithmetic-subarrays) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Rit0106/leetcodesubmission/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1839-decode-xored-array](https://github.com/Rit0106/leetcodesubmission/tree/master/1839-decode-xored-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rit0106/leetcodesubmission/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Rit0106/leetcodesubmission/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/1752-arithmetic-subarrays) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Rit0106/leetcodesubmission/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Rit0106/leetcodesubmission/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Rit0106/leetcodesubmission/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/2308-divide-array-into-equal-pairs) |
 | [2447-merge-similar-items](https://github.com/Rit0106/leetcodesubmission/tree/master/2447-merge-similar-items) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Rit0106/leetcodesubmission/tree/master/1448-maximum-69-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Rit0106/leetcodesubmission/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Rit0106/leetcodesubmission/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Rit0106/leetcodesubmission/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Rit0106/leetcodesubmission/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Rit0106/leetcodesubmission/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Bit Manipulation
