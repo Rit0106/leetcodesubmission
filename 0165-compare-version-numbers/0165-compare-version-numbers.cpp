@@ -8,8 +8,8 @@ public:
         while(getline(ss2,part,'.')) v2.push_back(stoi(part));
         int n=max(v1.size(),v2.size());
         for(int i=0;i<n;i++){
-            int a=(i< v1.size()) ? v1[i]:0;
-            int b=(i<v2.size()) ? v2[i]: 0;
+            int a=(i< (int)v1.size()) ? v1[i]:0;
+            int b=(i<(int)v2.size()) ? v2[i]: 0;
             if(a<b) return -1;
             if(a>b) return 1;
         }
