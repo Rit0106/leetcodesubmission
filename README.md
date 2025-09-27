@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rit0106/leetcodesubmission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/Rit0106/leetcodesubmission/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/0658-find-k-closest-elements) |
+| [0830-largest-triangle-area](https://github.com/Rit0106/leetcodesubmission/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/Rit0106/leetcodesubmission/tree/master/0907-koko-eating-bananas) |
 | [1006-vowel-spellchecker](https://github.com/Rit0106/leetcodesubmission/tree/master/1006-vowel-spellchecker) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rit0106/leetcodesubmission/tree/master/1046-max-consecutive-ones-iii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/Rit0106/leetcodesubmission/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Rit0106/leetcodesubmission/tree/master/0670-maximum-swap) |
+| [0830-largest-triangle-area](https://github.com/Rit0106/leetcodesubmission/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/Rit0106/leetcodesubmission/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/Rit0106/leetcodesubmission/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -331,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/Rit0106/leetcodesubmission/tree/master/2447-merge-similar-items) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Rit0106/leetcodesubmission/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
