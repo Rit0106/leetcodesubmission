@@ -9,7 +9,8 @@ public:
             int b=nums[i+1];
             int c=nums[i+2];
             if( b+c>a){
-                return a+b+c;
+                ans= a+b+c;
+                return ans;
 
             }
            
