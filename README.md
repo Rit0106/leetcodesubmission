@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Rit0106/leetcodesubmission/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Rit0106/leetcodesubmission/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Rit0106/leetcodesubmission/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/Rit0106/leetcodesubmission/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rit0106/leetcodesubmission/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rit0106/leetcodesubmission/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Rit0106/leetcodesubmission/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Rit0106/leetcodesubmission/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/Rit0106/leetcodesubmission/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rit0106/leetcodesubmission/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3651-transformed-array](https://github.com/Rit0106/leetcodesubmission/tree/master/3651-transformed-array) |
