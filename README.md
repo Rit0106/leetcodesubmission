@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rit0106/leetcodesubmission/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Rit0106/leetcodesubmission/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Rit0106/leetcodesubmission/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0137-single-number-ii) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rit0106/leetcodesubmission/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0148-sort-list) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rit0106/leetcodesubmission/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Rit0106/leetcodesubmission/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/Rit0106/leetcodesubmission/tree/master/0670-maximum-swap) |
 | [1018-largest-perimeter-triangle](https://github.com/Rit0106/leetcodesubmission/tree/master/1018-largest-perimeter-triangle) |
