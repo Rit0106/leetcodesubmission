@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Rit0106/leetcodesubmission/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Rit0106/leetcodesubmission/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Rit0106/leetcodesubmission/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Rit0106/leetcodesubmission/tree/master/3644-minimum-positive-sum-subarray) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Rit0106/leetcodesubmission/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Rit0106/leetcodesubmission/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Rit0106/leetcodesubmission/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Rit0106/leetcodesubmission/tree/master/3644-minimum-positive-sum-subarray) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Rit0106/leetcodesubmission/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Matrix
