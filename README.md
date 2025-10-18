@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Rit0106/leetcodesubmission/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Rit0106/leetcodesubmission/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Rit0106/leetcodesubmission/tree/master/3644-minimum-positive-sum-subarray) |
 | [3651-transformed-array](https://github.com/Rit0106/leetcodesubmission/tree/master/3651-transformed-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Rit0106/leetcodesubmission/tree/master/3748-sort-matrix-by-diagonals) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Rit0106/leetcodesubmission/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2887-sort-vowels-in-a-string](https://github.com/Rit0106/leetcodesubmission/tree/master/2887-sort-vowels-in-a-string) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Rit0106/leetcodesubmission/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Rit0106/leetcodesubmission/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Rit0106/leetcodesubmission/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/Rit0106/leetcodesubmission/tree/master/3778-transform-array-by-parity) |
 ## Heap (Priority Queue)
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Rit0106/leetcodesubmission/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Rit0106/leetcodesubmission/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Rit0106/leetcodesubmission/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Rit0106/leetcodesubmission/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
