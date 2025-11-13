@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Rit0106/leetcodesubmission/tree/master/2887-sort-vowels-in-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/3412-permutation-difference-between-two-strings) |
 | [3462-vowels-game-in-a-string](https://github.com/Rit0106/leetcodesubmission/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rit0106/leetcodesubmission/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rit0106/leetcodesubmission/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/2308-divide-array-into-equal-pairs) |
 | [2486-most-frequent-even-element](https://github.com/Rit0106/leetcodesubmission/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rit0106/leetcodesubmission/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3778-transform-array-by-parity](https://github.com/Rit0106/leetcodesubmission/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rit0106/leetcodesubmission/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Rit0106/leetcodesubmission/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Rit0106/leetcodesubmission/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Rit0106/leetcodesubmission/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rit0106/leetcodesubmission/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Rit0106/leetcodesubmission/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Bit Manipulation
 |  |
