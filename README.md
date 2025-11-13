@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Rit0106/leetcodesubmission/tree/master/2502-sort-the-people) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Rit0106/leetcodesubmission/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rit0106/leetcodesubmission/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rit0106/leetcodesubmission/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Rit0106/leetcodesubmission/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Rit0106/leetcodesubmission/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rit0106/leetcodesubmission/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rit0106/leetcodesubmission/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Rit0106/leetcodesubmission/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Rit0106/leetcodesubmission/tree/master/3462-vowels-game-in-a-string) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rit0106/leetcodesubmission/tree/master/0204-count-primes) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rit0106/leetcodesubmission/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
