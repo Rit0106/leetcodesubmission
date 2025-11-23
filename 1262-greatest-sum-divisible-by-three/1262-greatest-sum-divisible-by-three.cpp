@@ -1,6 +1,7 @@
 class Solution {
 public:
     int maxSumDivThree(vector<int>& nums) {
+        int n= nums.size();
          int sum = 0;
         vector<int> r1, r2;
         for (int x : nums) {
