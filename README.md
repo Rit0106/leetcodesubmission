@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rit0106/leetcodesubmission/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/Rit0106/leetcodesubmission/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Rit0106/leetcodesubmission/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Rit0106/leetcodesubmission/tree/master/0260-single-number-iii) |
 | [0413-arithmetic-slices](https://github.com/Rit0106/leetcodesubmission/tree/master/0413-arithmetic-slices) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rit0106/leetcodesubmission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Rit0106/leetcodesubmission/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Rit0106/leetcodesubmission/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Rit0106/leetcodesubmission/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rit0106/leetcodesubmission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rit0106/leetcodesubmission/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Rit0106/leetcodesubmission/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/Rit0106/leetcodesubmission/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/Rit0106/leetcodesubmission/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/0658-find-k-closest-elements) |
