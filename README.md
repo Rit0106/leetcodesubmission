@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rit0106/leetcodesubmission/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2447-merge-similar-items](https://github.com/Rit0106/leetcodesubmission/tree/master/2447-merge-similar-items) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Rit0106/leetcodesubmission/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2486-most-frequent-even-element](https://github.com/Rit0106/leetcodesubmission/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Rit0106/leetcodesubmission/tree/master/2502-sort-the-people) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Rit0106/leetcodesubmission/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rit0106/leetcodesubmission/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/2308-divide-array-into-equal-pairs) |
 | [2447-merge-similar-items](https://github.com/Rit0106/leetcodesubmission/tree/master/2447-merge-similar-items) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Rit0106/leetcodesubmission/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2486-most-frequent-even-element](https://github.com/Rit0106/leetcodesubmission/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Rit0106/leetcodesubmission/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rit0106/leetcodesubmission/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Rit0106/leetcodesubmission/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rit0106/leetcodesubmission/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2447-merge-similar-items](https://github.com/Rit0106/leetcodesubmission/tree/master/2447-merge-similar-items) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Rit0106/leetcodesubmission/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2502-sort-the-people](https://github.com/Rit0106/leetcodesubmission/tree/master/2502-sort-the-people) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Rit0106/leetcodesubmission/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2887-sort-vowels-in-a-string](https://github.com/Rit0106/leetcodesubmission/tree/master/2887-sort-vowels-in-a-string) |
