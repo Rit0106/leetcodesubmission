@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Rit0106/leetcodesubmission/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Rit0106/leetcodesubmission/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rit0106/leetcodesubmission/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Rit0106/leetcodesubmission/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Rit0106/leetcodesubmission/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2502-sort-the-people](https://github.com/Rit0106/leetcodesubmission/tree/master/2502-sort-the-people) |
 | [2887-sort-vowels-in-a-string](https://github.com/Rit0106/leetcodesubmission/tree/master/2887-sort-vowels-in-a-string) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Rit0106/leetcodesubmission/tree/master/1590-make-sum-divisible-by-p) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Rit0106/leetcodesubmission/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Rit0106/leetcodesubmission/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/Rit0106/leetcodesubmission/tree/master/2625-increment-submatrices-by-one) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Rit0106/leetcodesubmission/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Rit0106/leetcodesubmission/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
