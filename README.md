@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Rit0106/leetcodesubmission/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rit0106/leetcodesubmission/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rit0106/leetcodesubmission/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1390-four-divisors](https://github.com/Rit0106/leetcodesubmission/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Rit0106/leetcodesubmission/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Rit0106/leetcodesubmission/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Rit0106/leetcodesubmission/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rit0106/leetcodesubmission/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Rit0106/leetcodesubmission/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Rit0106/leetcodesubmission/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1390-four-divisors](https://github.com/Rit0106/leetcodesubmission/tree/master/1390-four-divisors) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rit0106/leetcodesubmission/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Rit0106/leetcodesubmission/tree/master/1448-maximum-69-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Rit0106/leetcodesubmission/tree/master/1636-number-of-substrings-with-only-1s) |
