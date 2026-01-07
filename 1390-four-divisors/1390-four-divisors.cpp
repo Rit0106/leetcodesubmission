@@ -20,7 +20,6 @@ public:
             }
             if (cnt == 4) ans += sum;
         }
-        return ans;
-        
+        return ans; 
     }
 };
