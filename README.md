@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rit0106/leetcodesubmission/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Rit0106/leetcodesubmission/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Rit0106/leetcodesubmission/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/Rit0106/leetcodesubmission/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Rit0106/leetcodesubmission/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Rit0106/leetcodesubmission/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Rit0106/leetcodesubmission/tree/master/0166-fraction-to-recurring-decimal) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Rit0106/leetcodesubmission/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Rit0106/leetcodesubmission/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Rit0106/leetcodesubmission/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Rit0106/leetcodesubmission/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rit0106/leetcodesubmission/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Rit0106/leetcodesubmission/tree/master/0166-fraction-to-recurring-decimal) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Rit0106/leetcodesubmission/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0209-minimum-size-subarray-sum) |
 | [0413-arithmetic-slices](https://github.com/Rit0106/leetcodesubmission/tree/master/0413-arithmetic-slices) |
 | [0658-find-k-closest-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/0658-find-k-closest-elements) |
