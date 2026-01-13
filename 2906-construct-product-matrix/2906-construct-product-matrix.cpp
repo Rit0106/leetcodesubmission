@@ -2,7 +2,8 @@ class Solution {
 public:
     vector<vector<int>> constructProductMatrix(vector<vector<int>>& grid) {
        constexpr int MOD = 12345;
-        int n = grid.size(), m = grid[0].size();
+        int n = grid.size();
+        int m = grid[0].size();
         vector<vector<int>> res(n , vector<int>(m , 0));
         long left = 1;
         for(int i = 0; i < n; ++i){
