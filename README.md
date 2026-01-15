@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Rit0106/leetcodesubmission/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rit0106/leetcodesubmission/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rit0106/leetcodesubmission/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Rit0106/leetcodesubmission/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Rit0106/leetcodesubmission/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-decode-xored-array](https://github.com/Rit0106/leetcodesubmission/tree/master/1839-decode-xored-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Rit0106/leetcodesubmission/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Rit0106/leetcodesubmission/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rit0106/leetcodesubmission/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rit0106/leetcodesubmission/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Rit0106/leetcodesubmission/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rit0106/leetcodesubmission/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Rit0106/leetcodesubmission/tree/master/3644-minimum-positive-sum-subarray) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/Rit0106/leetcodesubmission/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/Rit0106/leetcodesubmission/tree/master/2906-construct-product-matrix) |
 | [3028-ant-on-the-boundary](https://github.com/Rit0106/leetcodesubmission/tree/master/3028-ant-on-the-boundary) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Rit0106/leetcodesubmission/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Rit0106/leetcodesubmission/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rit0106/leetcodesubmission/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -591,4 +595,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/0347-top-k-frequent-elements) |
+## Queue
+|  |
+| ------- |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
