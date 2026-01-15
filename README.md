@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rit0106/leetcodesubmission/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2906-construct-product-matrix](https://github.com/Rit0106/leetcodesubmission/tree/master/2906-construct-product-matrix) |
+| [3028-ant-on-the-boundary](https://github.com/Rit0106/leetcodesubmission/tree/master/3028-ant-on-the-boundary) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Rit0106/leetcodesubmission/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rit0106/leetcodesubmission/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rit0106/leetcodesubmission/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rit0106/leetcodesubmission/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Rit0106/leetcodesubmission/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rit0106/leetcodesubmission/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3028-ant-on-the-boundary](https://github.com/Rit0106/leetcodesubmission/tree/master/3028-ant-on-the-boundary) |
 | [3336-water-bottles-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/3336-water-bottles-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3651-transformed-array](https://github.com/Rit0106/leetcodesubmission/tree/master/3651-transformed-array) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/Rit0106/leetcodesubmission/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/Rit0106/leetcodesubmission/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/Rit0106/leetcodesubmission/tree/master/2906-construct-product-matrix) |
+| [3028-ant-on-the-boundary](https://github.com/Rit0106/leetcodesubmission/tree/master/3028-ant-on-the-boundary) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Rit0106/leetcodesubmission/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Rit0106/leetcodesubmission/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rit0106/leetcodesubmission/tree/master/3432-count-partitions-with-even-sum-difference) |
