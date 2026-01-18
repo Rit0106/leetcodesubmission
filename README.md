@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3778-transform-array-by-parity](https://github.com/Rit0106/leetcodesubmission/tree/master/3778-transform-array-by-parity) |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/Rit0106/leetcodesubmission/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Rit0106/leetcodesubmission/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3804-number-of-centered-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/3804-number-of-centered-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Rit0106/leetcodesubmission/tree/master/0900-reordered-power-of-2) |
 | [1925-count-square-sum-triples](https://github.com/Rit0106/leetcodesubmission/tree/master/1925-count-square-sum-triples) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3804-number-of-centered-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/3804-number-of-centered-subarrays) |
 ## Number Theory
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/Rit0106/leetcodesubmission/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3803-count-residue-prefixes](https://github.com/Rit0106/leetcodesubmission/tree/master/3803-count-residue-prefixes) |
+| [3804-number-of-centered-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/3804-number-of-centered-subarrays) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rit0106/leetcodesubmission/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
