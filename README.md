@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Rit0106/leetcodesubmission/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Rit0106/leetcodesubmission/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Rit0106/leetcodesubmission/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Rit0106/leetcodesubmission/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Rit0106/leetcodesubmission/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rit0106/leetcodesubmission/tree/master/3676-smallest-number-with-all-set-bits) |
