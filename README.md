@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Rit0106/leetcodesubmission/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Rit0106/leetcodesubmission/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/Rit0106/leetcodesubmission/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Rit0106/leetcodesubmission/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Rit0106/leetcodesubmission/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0137-single-number-ii) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Rit0106/leetcodesubmission/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Rit0106/leetcodesubmission/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Rit0106/leetcodesubmission/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Rit0106/leetcodesubmission/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Rit0106/leetcodesubmission/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rit0106/leetcodesubmission/tree/master/0160-intersection-of-two-linked-lists) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rit0106/leetcodesubmission/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/Rit0106/leetcodesubmission/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Rit0106/leetcodesubmission/tree/master/0498-diagonal-traverse) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rit0106/leetcodesubmission/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/1975-maximum-matrix-sum) |
