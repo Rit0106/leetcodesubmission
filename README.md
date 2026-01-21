@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Rit0106/leetcodesubmission/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/Rit0106/leetcodesubmission/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Rit0106/leetcodesubmission/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Rit0106/leetcodesubmission/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Rit0106/leetcodesubmission/tree/master/0073-set-matrix-zeroes) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rit0106/leetcodesubmission/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Rit0106/leetcodesubmission/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rit0106/leetcodesubmission/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Rit0106/leetcodesubmission/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Rit0106/leetcodesubmission/tree/master/0166-fraction-to-recurring-decimal) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rit0106/leetcodesubmission/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Rit0106/leetcodesubmission/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Rit0106/leetcodesubmission/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Rit0106/leetcodesubmission/tree/master/0498-diagonal-traverse) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rit0106/leetcodesubmission/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
