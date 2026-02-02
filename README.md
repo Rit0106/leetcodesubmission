@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rit0106/leetcodesubmission/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Rit0106/leetcodesubmission/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Rit0106/leetcodesubmission/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/Rit0106/leetcodesubmission/tree/master/0036-valid-sudoku) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rit0106/leetcodesubmission/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Rit0106/leetcodesubmission/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/0347-top-k-frequent-elements) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rit0106/leetcodesubmission/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rit0106/leetcodesubmission/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0209-minimum-size-subarray-sum) |
