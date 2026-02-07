@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rit0106/leetcodesubmission/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Rit0106/leetcodesubmission/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Rit0106/leetcodesubmission/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/Rit0106/leetcodesubmission/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Rit0106/leetcodesubmission/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0040-combination-sum-ii) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rit0106/leetcodesubmission/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Rit0106/leetcodesubmission/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rit0106/leetcodesubmission/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0209-minimum-size-subarray-sum) |
