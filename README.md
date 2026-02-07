@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rit0106/leetcodesubmission/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rit0106/leetcodesubmission/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Rit0106/leetcodesubmission/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Rit0106/leetcodesubmission/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rit0106/leetcodesubmission/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Rit0106/leetcodesubmission/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Rit0106/leetcodesubmission/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Rit0106/leetcodesubmission/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rit0106/leetcodesubmission/tree/master/0145-binary-tree-postorder-traversal) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Rit0106/leetcodesubmission/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rit0106/leetcodesubmission/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Rit0106/leetcodesubmission/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Rit0106/leetcodesubmission/tree/master/0474-ones-and-zeroes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rit0106/leetcodesubmission/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rit0106/leetcodesubmission/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Rit0106/leetcodesubmission/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rit0106/leetcodesubmission/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Sliding Window
