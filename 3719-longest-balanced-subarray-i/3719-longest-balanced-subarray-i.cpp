@@ -4,14 +4,14 @@ public:
        int n=nums.size();
         int ans =0;
         for (int i=0;i<n;i++) {
-            unordered_set<int>evenSet, oddSet;
+            unordered_set<int>evenset, oddset;
             for (int j=i;j<n;j++) {
                 if (nums[j]%2==0)
-                    evenSet.insert(nums[j]);
+                    evenset.insert(nums[j]);
                 else
-                    oddSet.insert(nums[j]);
+                    oddset.insert(nums[j]);
 
-                if (evenSet.size() == oddSet.size())
+                if (evenset.size() == oddset.size())
                     ans = max(ans,j-i+1);
             }
         }
