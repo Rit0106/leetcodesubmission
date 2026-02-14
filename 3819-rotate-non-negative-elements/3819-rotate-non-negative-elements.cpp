@@ -1,29 +1,20 @@
 class Solution {
 public:
     vector<int> rotateElements(vector<int>& nums, int k) {
-      vector<int> nonNeg;
-
-    // Extract
-    for (int num : nums)
-        if (num >= 0)
-            nonNeg.push_back(num);
-
-    int m = nonNeg.size();
-    if (m <= 1) return nums;
-
+      vector<int>pos;
+    for (int num:nums)
+        if (num >=0)
+            pos.push_back(num);
+    int m =pos.size();
+    if (m <=1) return nums;
     k = k % m;
-
-    // Left rotate using STL
-    rotate(nonNeg.begin(), nonNeg.begin() + k, nonNeg.end());
-
-    // Put back
+    rotate(pos.begin(), pos.begin()+k,pos.end());
     int idx = 0;
-    for (int i = 0; i < nums.size(); i++) {
-        if (nums[i] >= 0) {
-            nums[i] = nonNeg[idx++];
+    for (int i=0;i<nums.size(); i++) {
+        if (nums[i] >=0) {
+            nums[i] =pos[idx++];
         }
     }
-
     return nums;
     }
 };
