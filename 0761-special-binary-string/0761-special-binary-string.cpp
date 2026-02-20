@@ -1,10 +1,10 @@
 class Solution {
 public:
     string makeLargestSpecial(string s) {
-         int i = 0;
+        int n = s.size();
+        int i = 0;
         int one = 0;
         int zero = 0;
-        int n = s.size();
         vector<string> res;
         for (int j=0;j<n;j++) {
             if (s[j] == '1') {
