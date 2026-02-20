@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Rit0106/leetcodesubmission/tree/master/0474-ones-and-zeroes) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rit0106/leetcodesubmission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0696-count-binary-substrings](https://github.com/Rit0106/leetcodesubmission/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/Rit0106/leetcodesubmission/tree/master/0761-special-binary-string) |
 | [0812-rotate-string](https://github.com/Rit0106/leetcodesubmission/tree/master/0812-rotate-string) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/Rit0106/leetcodesubmission/tree/master/1006-vowel-spellchecker) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Rit0106/leetcodesubmission/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/0658-find-k-closest-elements) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Rit0106/leetcodesubmission/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/Rit0106/leetcodesubmission/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/Rit0106/leetcodesubmission/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Rit0106/leetcodesubmission/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Rit0106/leetcodesubmission/tree/master/1200-minimum-absolute-difference) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Rit0106/leetcodesubmission/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/Rit0106/leetcodesubmission/tree/master/0761-special-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3719-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
