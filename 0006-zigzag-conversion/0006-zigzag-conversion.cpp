@@ -1,13 +1,11 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-         if (numRows == 1 || numRows >= s.length()) {
+         if (numRows == 1||numRows>= s.length()) {
             return s;
         }
-
         int idx = 0, d = 1;
-        vector<vector<char>> rows(numRows);
-
+        vector<vector<char>>rows(numRows);
         for (char c : s) {
             rows[idx].push_back(c);
             if (idx == 0) {
@@ -17,7 +15,6 @@ public:
             }
             idx += d;
         }
-
         string result;
         for (const auto& row : rows) {
             for (char c : row) {
