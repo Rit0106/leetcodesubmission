@@ -16,7 +16,7 @@ public:
             idx += d;
         }
         string result;
-        for ( auto& row : rows) {
+        for (const auto& row : rows) {
             for (char c : row) {
                 result += c;
             }
