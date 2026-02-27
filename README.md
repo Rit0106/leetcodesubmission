@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3804-number-of-centered-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/3804-number-of-centered-subarrays) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Rit0106/leetcodesubmission/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3819-rotate-non-negative-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/3819-rotate-non-negative-elements) |
+| [3833-count-dominant-indices](https://github.com/Rit0106/leetcodesubmission/tree/master/3833-count-dominant-indices) |
 | [3842-toggle-light-bulbs](https://github.com/Rit0106/leetcodesubmission/tree/master/3842-toggle-light-bulbs) |
 ## Math
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3713-longest-balanced-substring-i) |
 | [3804-number-of-centered-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/3804-number-of-centered-subarrays) |
 | [3827-count-monobit-integers](https://github.com/Rit0106/leetcodesubmission/tree/master/3827-count-monobit-integers) |
+| [3833-count-dominant-indices](https://github.com/Rit0106/leetcodesubmission/tree/master/3833-count-dominant-indices) |
 ## Number Theory
 |  |
 | ------- |
