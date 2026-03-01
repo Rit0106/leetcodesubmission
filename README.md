@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Rit0106/leetcodesubmission/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3819-rotate-non-negative-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/3819-rotate-non-negative-elements) |
 | [3833-count-dominant-indices](https://github.com/Rit0106/leetcodesubmission/tree/master/3833-count-dominant-indices) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/3834-merge-adjacent-equal-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Rit0106/leetcodesubmission/tree/master/3842-toggle-light-bulbs) |
 ## Math
 |  |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Rit0106/leetcodesubmission/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3819-rotate-non-negative-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/3819-rotate-non-negative-elements) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/3834-merge-adjacent-equal-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Rit0106/leetcodesubmission/tree/master/3842-toggle-light-bulbs) |
 ## String Matching
 |  |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Rit0106/leetcodesubmission/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rit0106/leetcodesubmission/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Rit0106/leetcodesubmission/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/3834-merge-adjacent-equal-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
