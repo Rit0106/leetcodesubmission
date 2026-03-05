@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Rit0106/leetcodesubmission/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rit0106/leetcodesubmission/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rit0106/leetcodesubmission/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rit0106/leetcodesubmission/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Rit0106/leetcodesubmission/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Rit0106/leetcodesubmission/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Rit0106/leetcodesubmission/tree/master/2134-maximize-the-confusion-of-an-exam) |
