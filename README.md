@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Rit0106/leetcodesubmission/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Rit0106/leetcodesubmission/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Rit0106/leetcodesubmission/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rit0106/leetcodesubmission/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Rit0106/leetcodesubmission/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Rit0106/leetcodesubmission/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rit0106/leetcodesubmission/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rit0106/leetcodesubmission/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rit0106/leetcodesubmission/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Rit0106/leetcodesubmission/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rit0106/leetcodesubmission/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rit0106/leetcodesubmission/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Sliding Window
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rit0106/leetcodesubmission/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rit0106/leetcodesubmission/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rit0106/leetcodesubmission/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rit0106/leetcodesubmission/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rit0106/leetcodesubmission/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Rit0106/leetcodesubmission/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rit0106/leetcodesubmission/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
