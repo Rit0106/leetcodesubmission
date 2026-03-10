@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3833-count-dominant-indices](https://github.com/Rit0106/leetcodesubmission/tree/master/3833-count-dominant-indices) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/3834-merge-adjacent-equal-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Rit0106/leetcodesubmission/tree/master/3842-toggle-light-bulbs) |
+| [3862-find-the-smallest-balanced-index](https://github.com/Rit0106/leetcodesubmission/tree/master/3862-find-the-smallest-balanced-index) |
 ## Math
 |  |
 | ------- |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-minimum-positive-sum-subarray](https://github.com/Rit0106/leetcodesubmission/tree/master/3644-minimum-positive-sum-subarray) |
 | [3719-longest-balanced-subarray-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3719-longest-balanced-subarray-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Rit0106/leetcodesubmission/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3862-find-the-smallest-balanced-index](https://github.com/Rit0106/leetcodesubmission/tree/master/3862-find-the-smallest-balanced-index) |
 ## Matrix
 |  |
 | ------- |
