@@ -1,14 +1,16 @@
 class Solution {
 public:
     int minimumIndex(vector<int>& capacity, int itemSize) {
-        int ans=INT_MAX,index=-1;
-        for(int i=0;i<capacity.size();i++){
+        int n=capacity.size();
+        int ans=INT_MAX;
+        int idx=-1;
+        for(int i=0;i<n;i++){
             if(capacity[i]>=itemSize && capacity[i]<ans){
                 ans = capacity[i];
-                index = i;
+                idx = i;
             }
         }
-        return index;
+        return idx;
         
     }
 };
