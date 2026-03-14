@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3803-count-residue-prefixes](https://github.com/Rit0106/leetcodesubmission/tree/master/3803-count-residue-prefixes) |
+| [3853-merge-close-characters](https://github.com/Rit0106/leetcodesubmission/tree/master/3853-merge-close-characters) |
 | [3856-trim-trailing-vowels](https://github.com/Rit0106/leetcodesubmission/tree/master/3856-trim-trailing-vowels) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rit0106/leetcodesubmission/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3804-number-of-centered-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/3804-number-of-centered-subarrays) |
 | [3842-toggle-light-bulbs](https://github.com/Rit0106/leetcodesubmission/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Rit0106/leetcodesubmission/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [3853-merge-close-characters](https://github.com/Rit0106/leetcodesubmission/tree/master/3853-merge-close-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rit0106/leetcodesubmission/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
