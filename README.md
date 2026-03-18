@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rit0106/leetcodesubmission/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Rit0106/leetcodesubmission/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/Rit0106/leetcodesubmission/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/Rit0106/leetcodesubmission/tree/master/0413-arithmetic-slices) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rit0106/leetcodesubmission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Rit0106/leetcodesubmission/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/Rit0106/leetcodesubmission/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Rit0106/leetcodesubmission/tree/master/0561-array-partition) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Rit0106/leetcodesubmission/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Rit0106/leetcodesubmission/tree/master/0561-array-partition) |
 ## Segment Tree
 |  |
