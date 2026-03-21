@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rit0106/leetcodesubmission/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0148-sort-list) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rit0106/leetcodesubmission/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Rit0106/leetcodesubmission/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0143-reorder-list) |
 | [0326-power-of-three](https://github.com/Rit0106/leetcodesubmission/tree/master/0326-power-of-three) |
