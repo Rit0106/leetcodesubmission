@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3848-check-digitorial-permutation](https://github.com/Rit0106/leetcodesubmission/tree/master/3848-check-digitorial-permutation) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Rit0106/leetcodesubmission/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/Rit0106/leetcodesubmission/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/3871-count-commas-in-range-ii) |
 ## Enumeration
 |  |
 | ------- |
