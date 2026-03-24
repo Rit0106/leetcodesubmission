@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Rit0106/leetcodesubmission/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/Rit0106/leetcodesubmission/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Rit0106/leetcodesubmission/tree/master/3862-find-the-smallest-balanced-index) |
+| [3866-first-unique-even-element](https://github.com/Rit0106/leetcodesubmission/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
 | ------- |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/Rit0106/leetcodesubmission/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Rit0106/leetcodesubmission/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3853-merge-close-characters](https://github.com/Rit0106/leetcodesubmission/tree/master/3853-merge-close-characters) |
+| [3866-first-unique-even-element](https://github.com/Rit0106/leetcodesubmission/tree/master/3866-first-unique-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rit0106/leetcodesubmission/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/Rit0106/leetcodesubmission/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3848-check-digitorial-permutation](https://github.com/Rit0106/leetcodesubmission/tree/master/3848-check-digitorial-permutation) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Rit0106/leetcodesubmission/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [3866-first-unique-even-element](https://github.com/Rit0106/leetcodesubmission/tree/master/3866-first-unique-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rit0106/leetcodesubmission/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
