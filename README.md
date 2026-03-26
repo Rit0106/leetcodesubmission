@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3778-transform-array-by-parity](https://github.com/Rit0106/leetcodesubmission/tree/master/3778-transform-array-by-parity) |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/Rit0106/leetcodesubmission/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Rit0106/leetcodesubmission/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Rit0106/leetcodesubmission/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3804-number-of-centered-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/3804-number-of-centered-subarrays) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Rit0106/leetcodesubmission/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3819-rotate-non-negative-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/3819-rotate-non-negative-elements) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3719-longest-balanced-subarray-i) |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/Rit0106/leetcodesubmission/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Rit0106/leetcodesubmission/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3803-count-residue-prefixes](https://github.com/Rit0106/leetcodesubmission/tree/master/3803-count-residue-prefixes) |
 | [3804-number-of-centered-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/3804-number-of-centered-subarrays) |
 | [3842-toggle-light-bulbs](https://github.com/Rit0106/leetcodesubmission/tree/master/3842-toggle-light-bulbs) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Rit0106/leetcodesubmission/tree/master/3634-minimum-removals-to-balance-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Rit0106/leetcodesubmission/tree/master/3644-minimum-positive-sum-subarray) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Rit0106/leetcodesubmission/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Prefix Sum
 |  |
 | ------- |
