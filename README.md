@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rit0106/leetcodesubmission/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2906-construct-product-matrix](https://github.com/Rit0106/leetcodesubmission/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rit0106/leetcodesubmission/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3028-ant-on-the-boundary](https://github.com/Rit0106/leetcodesubmission/tree/master/3028-ant-on-the-boundary) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Rit0106/leetcodesubmission/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rit0106/leetcodesubmission/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rit0106/leetcodesubmission/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rit0106/leetcodesubmission/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rit0106/leetcodesubmission/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Rit0106/leetcodesubmission/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3280-convert-date-to-binary](https://github.com/Rit0106/leetcodesubmission/tree/master/3280-convert-date-to-binary) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rit0106/leetcodesubmission/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Rit0106/leetcodesubmission/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rit0106/leetcodesubmission/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rit0106/leetcodesubmission/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3028-ant-on-the-boundary](https://github.com/Rit0106/leetcodesubmission/tree/master/3028-ant-on-the-boundary) |
 | [3336-water-bottles-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/3336-water-bottles-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -653,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Rit0106/leetcodesubmission/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2625-increment-submatrices-by-one](https://github.com/Rit0106/leetcodesubmission/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/Rit0106/leetcodesubmission/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rit0106/leetcodesubmission/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3546-equal-sum-grid-partition-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Rit0106/leetcodesubmission/tree/master/3748-sort-matrix-by-diagonals) |
