@@ -4,27 +4,19 @@ public:
         int n=nums1.size();
         int m=nums2.size();
         vector<int>ans;
-      
-        for(int i=0;i<n;i++){
-            int val=nums1[i];
-            int idx=-1;
-          
-        for(int j=0;j<m;j++){
-            if(nums2[j]==val){
-                idx=j;
-                break;
+      unordered_map<int,int>nxt;
+      stack<int>s;
+      for(int i=m-1;i>=0;i--){
+        while(!s.empty() && s.top()<=nums2[i]){
+            s.pop();
+        }
+        nxt[nums2[i]]=s.empty()?-1 : s.top();
+        s.push(nums2[i]);
+      }
+      for(int num:nums1){
+        ans.push_back(nxt[num]);
+      }
+      return ans;
 
-            }
-        }
-        int nxtgrt=-1;
-        for(int j=idx+1;j<m;j++){
-            if(nums2[j]>val){
-                nxtgrt=nums2[j];
-                break;
-            }
-        }
-        ans.push_back(nxtgrt);
-        }
-        return ans;
     }
 };
