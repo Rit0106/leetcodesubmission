@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Rit0106/leetcodesubmission/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Rit0106/leetcodesubmission/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Rit0106/leetcodesubmission/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0523-continuous-subarray-sum) |
 | [0561-array-partition](https://github.com/Rit0106/leetcodesubmission/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rit0106/leetcodesubmission/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Rit0106/leetcodesubmission/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rit0106/leetcodesubmission/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Rit0106/leetcodesubmission/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0503-next-greater-element-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Rit0106/leetcodesubmission/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rit0106/leetcodesubmission/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -785,4 +787,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Rit0106/leetcodesubmission/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
