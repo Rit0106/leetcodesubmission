@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-minimum-positive-sum-subarray](https://github.com/Rit0106/leetcodesubmission/tree/master/3644-minimum-positive-sum-subarray) |
 | [3651-transformed-array](https://github.com/Rit0106/leetcodesubmission/tree/master/3651-transformed-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3719-longest-balanced-subarray-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/3745-maximize-expression-of-three-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Rit0106/leetcodesubmission/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/Rit0106/leetcodesubmission/tree/master/3778-transform-array-by-parity) |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/Rit0106/leetcodesubmission/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3713-longest-balanced-substring-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/3745-maximize-expression-of-three-elements) |
 | [3804-number-of-centered-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/3804-number-of-centered-subarrays) |
 | [3827-count-monobit-integers](https://github.com/Rit0106/leetcodesubmission/tree/master/3827-count-monobit-integers) |
 | [3833-count-dominant-indices](https://github.com/Rit0106/leetcodesubmission/tree/master/3833-count-dominant-indices) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Rit0106/leetcodesubmission/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Rit0106/leetcodesubmission/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Rit0106/leetcodesubmission/tree/master/3634-minimum-removals-to-balance-array) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/3745-maximize-expression-of-three-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Rit0106/leetcodesubmission/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/Rit0106/leetcodesubmission/tree/master/3778-transform-array-by-parity) |
 | [3842-toggle-light-bulbs](https://github.com/Rit0106/leetcodesubmission/tree/master/3842-toggle-light-bulbs) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Rit0106/leetcodesubmission/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rit0106/leetcodesubmission/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Rit0106/leetcodesubmission/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/3745-maximize-expression-of-three-elements) |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/Rit0106/leetcodesubmission/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Rit0106/leetcodesubmission/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Bit Manipulation
