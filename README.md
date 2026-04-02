@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Rit0106/leetcodesubmission/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rit0106/leetcodesubmission/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3713-longest-balanced-substring-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3713-longest-balanced-substring-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Rit0106/leetcodesubmission/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/Rit0106/leetcodesubmission/tree/master/3794-reverse-string-prefix) |
 | [3803-count-residue-prefixes](https://github.com/Rit0106/leetcodesubmission/tree/master/3803-count-residue-prefixes) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rit0106/leetcodesubmission/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/Rit0106/leetcodesubmission/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3713-longest-balanced-substring-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Rit0106/leetcodesubmission/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3778-transform-array-by-parity](https://github.com/Rit0106/leetcodesubmission/tree/master/3778-transform-array-by-parity) |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/Rit0106/leetcodesubmission/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3848-check-digitorial-permutation](https://github.com/Rit0106/leetcodesubmission/tree/master/3848-check-digitorial-permutation) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Rit0106/leetcodesubmission/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rit0106/leetcodesubmission/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Rit0106/leetcodesubmission/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Rit0106/leetcodesubmission/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/3834-merge-adjacent-equal-elements) |
 ## Divide and Conquer
 |  |
