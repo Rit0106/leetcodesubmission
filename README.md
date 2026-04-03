@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Rit0106/leetcodesubmission/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Rit0106/leetcodesubmission/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Rit0106/leetcodesubmission/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Rit0106/leetcodesubmission/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Rit0106/leetcodesubmission/tree/master/0057-insert-interval) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rit0106/leetcodesubmission/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Rit0106/leetcodesubmission/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Rit0106/leetcodesubmission/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0148-sort-list) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rit0106/leetcodesubmission/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Rit0106/leetcodesubmission/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Rit0106/leetcodesubmission/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rit0106/leetcodesubmission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0143-reorder-list) |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rit0106/leetcodesubmission/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Rit0106/leetcodesubmission/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Rit0106/leetcodesubmission/tree/master/0042-trapping-rain-water) |
 | [0413-arithmetic-slices](https://github.com/Rit0106/leetcodesubmission/tree/master/0413-arithmetic-slices) |
 | [0474-ones-and-zeroes](https://github.com/Rit0106/leetcodesubmission/tree/master/0474-ones-and-zeroes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rit0106/leetcodesubmission/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -793,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rit0106/leetcodesubmission/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Rit0106/leetcodesubmission/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
