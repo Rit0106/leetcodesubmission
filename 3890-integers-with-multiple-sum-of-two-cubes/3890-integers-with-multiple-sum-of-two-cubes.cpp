@@ -3,6 +3,7 @@ bool possible=false;
 vector<int>v;
 class Solution {
 public:
+
 void compute(){
      map<int,int>mp;
         for(int i=0;i<1000;i++){
