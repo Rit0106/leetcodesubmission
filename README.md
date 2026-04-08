@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rit0106/leetcodesubmission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/Rit0106/leetcodesubmission/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/0658-find-k-closest-elements) |
+| [0739-daily-temperatures](https://github.com/Rit0106/leetcodesubmission/tree/master/0739-daily-temperatures) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Rit0106/leetcodesubmission/tree/master/0759-set-intersection-size-at-least-two) |
 | [0830-largest-triangle-area](https://github.com/Rit0106/leetcodesubmission/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/Rit0106/leetcodesubmission/tree/master/0907-koko-eating-bananas) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Rit0106/leetcodesubmission/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Rit0106/leetcodesubmission/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Rit0106/leetcodesubmission/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Rit0106/leetcodesubmission/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rit0106/leetcodesubmission/tree/master/0907-sum-of-subarray-minimums) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -810,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rit0106/leetcodesubmission/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Rit0106/leetcodesubmission/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Rit0106/leetcodesubmission/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Rit0106/leetcodesubmission/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rit0106/leetcodesubmission/tree/master/0907-sum-of-subarray-minimums) |
 ## Design
