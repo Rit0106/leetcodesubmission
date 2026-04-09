@@ -1,7 +1,6 @@
 class Solution {
 public:
 vector<int>getlmax(vector<int>&height , int n){
-    
     vector<int > lmax(n);
     lmax[0]=height[0];
     for(int i=1;i<n;i++){
