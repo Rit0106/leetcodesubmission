@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Rit0106/leetcodesubmission/tree/master/0812-rotate-string) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/Rit0106/leetcodesubmission/tree/master/1006-vowel-spellchecker) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rit0106/leetcodesubmission/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rit0106/leetcodesubmission/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rit0106/leetcodesubmission/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Rit0106/leetcodesubmission/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Rit0106/leetcodesubmission/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rit0106/leetcodesubmission/tree/master/0907-sum-of-subarray-minimums) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rit0106/leetcodesubmission/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Rit0106/leetcodesubmission/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rit0106/leetcodesubmission/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
