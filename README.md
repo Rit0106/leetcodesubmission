@@ -602,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rit0106/leetcodesubmission/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rit0106/leetcodesubmission/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/Rit0106/leetcodesubmission/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Rit0106/leetcodesubmission/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Rit0106/leetcodesubmission/tree/master/0739-daily-temperatures) |
@@ -799,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Rit0106/leetcodesubmission/tree/master/0232-implement-queue-using-stacks) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting Sort
 |  |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Rit0106/leetcodesubmission/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/Rit0106/leetcodesubmission/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
