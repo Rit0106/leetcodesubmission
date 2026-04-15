@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rit0106/leetcodesubmission/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Rit0106/leetcodesubmission/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/Rit0106/leetcodesubmission/tree/master/1646-kth-missing-positive-number) |
+| [1652-defuse-the-bomb](https://github.com/Rit0106/leetcodesubmission/tree/master/1652-defuse-the-bomb) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/1752-arithmetic-subarrays) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rit0106/leetcodesubmission/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rit0106/leetcodesubmission/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rit0106/leetcodesubmission/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1652-defuse-the-bomb](https://github.com/Rit0106/leetcodesubmission/tree/master/1652-defuse-the-bomb) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rit0106/leetcodesubmission/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rit0106/leetcodesubmission/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Rit0106/leetcodesubmission/tree/master/2134-maximize-the-confusion-of-an-exam) |
