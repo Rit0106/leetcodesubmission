@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3866-first-unique-even-element](https://github.com/Rit0106/leetcodesubmission/tree/master/3866-first-unique-even-element) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Rit0106/leetcodesubmission/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3903-smallest-stable-index-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
