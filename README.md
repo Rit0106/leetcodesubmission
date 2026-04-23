@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Rit0106/leetcodesubmission/tree/master/2502-sort-the-people) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rit0106/leetcodesubmission/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Rit0106/leetcodesubmission/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2615-sum-of-distances](https://github.com/Rit0106/leetcodesubmission/tree/master/2615-sum-of-distances) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2625-increment-submatrices-by-one](https://github.com/Rit0106/leetcodesubmission/tree/master/2625-increment-submatrices-by-one) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rit0106/leetcodesubmission/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Rit0106/leetcodesubmission/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2486-most-frequent-even-element](https://github.com/Rit0106/leetcodesubmission/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Rit0106/leetcodesubmission/tree/master/2502-sort-the-people) |
+| [2615-sum-of-distances](https://github.com/Rit0106/leetcodesubmission/tree/master/2615-sum-of-distances) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rit0106/leetcodesubmission/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Rit0106/leetcodesubmission/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Rit0106/leetcodesubmission/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2615-sum-of-distances](https://github.com/Rit0106/leetcodesubmission/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/Rit0106/leetcodesubmission/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/Rit0106/leetcodesubmission/tree/master/2906-construct-product-matrix) |
 | [3028-ant-on-the-boundary](https://github.com/Rit0106/leetcodesubmission/tree/master/3028-ant-on-the-boundary) |
