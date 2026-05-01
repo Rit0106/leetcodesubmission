@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Rit0106/leetcodesubmission/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Rit0106/leetcodesubmission/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/Rit0106/leetcodesubmission/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/Rit0106/leetcodesubmission/tree/master/0413-arithmetic-slices) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rit0106/leetcodesubmission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/Rit0106/leetcodesubmission/tree/master/0474-ones-and-zeroes) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Rit0106/leetcodesubmission/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Rit0106/leetcodesubmission/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/Rit0106/leetcodesubmission/tree/master/0390-elimination-game) |
+| [0396-rotate-function](https://github.com/Rit0106/leetcodesubmission/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/Rit0106/leetcodesubmission/tree/master/0400-nth-digit) |
 | [0415-add-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0523-continuous-subarray-sum) |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rit0106/leetcodesubmission/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Rit0106/leetcodesubmission/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rit0106/leetcodesubmission/tree/master/0042-trapping-rain-water) |
+| [0396-rotate-function](https://github.com/Rit0106/leetcodesubmission/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/Rit0106/leetcodesubmission/tree/master/0413-arithmetic-slices) |
 | [0474-ones-and-zeroes](https://github.com/Rit0106/leetcodesubmission/tree/master/0474-ones-and-zeroes) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rit0106/leetcodesubmission/tree/master/0907-sum-of-subarray-minimums) |
