@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Rit0106/leetcodesubmission/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Rit0106/leetcodesubmission/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Rit0106/leetcodesubmission/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/Rit0106/leetcodesubmission/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Rit0106/leetcodesubmission/tree/master/0812-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Rit0106/leetcodesubmission/tree/master/0844-backspace-string-compare) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Rit0106/leetcodesubmission/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Rit0106/leetcodesubmission/tree/master/0812-rotate-string) |
 ## Hash Table
 |  |
