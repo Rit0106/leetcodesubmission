@@ -20,19 +20,15 @@ public:
         }
         int position=k%len;
         if(position==0) return head;
-
         ListNode* curr=head;
         for(int i=0;i<len-position-1; i++){
             curr=curr->next;
 
         }
-
         ListNode* newhead=curr->next;
         curr->next=nullptr;
         dummy->next=head;
-
         return newhead;
-
         
     }
 };
