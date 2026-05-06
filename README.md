@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-decode-xored-array](https://github.com/Rit0106/leetcodesubmission/tree/master/1839-decode-xored-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Rit0106/leetcodesubmission/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Rit0106/leetcodesubmission/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Rit0106/leetcodesubmission/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rit0106/leetcodesubmission/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rit0106/leetcodesubmission/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Rit0106/leetcodesubmission/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Rit0106/leetcodesubmission/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/Rit0106/leetcodesubmission/tree/master/0844-backspace-string-compare) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Rit0106/leetcodesubmission/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Rit0106/leetcodesubmission/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rit0106/leetcodesubmission/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Rit0106/leetcodesubmission/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Rit0106/leetcodesubmission/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Rit0106/leetcodesubmission/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Rit0106/leetcodesubmission/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rit0106/leetcodesubmission/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1861-rotating-the-box](https://github.com/Rit0106/leetcodesubmission/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Rit0106/leetcodesubmission/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/1975-maximum-matrix-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Rit0106/leetcodesubmission/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
