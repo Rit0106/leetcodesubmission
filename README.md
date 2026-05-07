@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Rit0106/leetcodesubmission/tree/master/3634-minimum-removals-to-balance-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Rit0106/leetcodesubmission/tree/master/3644-minimum-positive-sum-subarray) |
 | [3651-transformed-array](https://github.com/Rit0106/leetcodesubmission/tree/master/3651-transformed-array) |
+| [3660-jump-game-ix](https://github.com/Rit0106/leetcodesubmission/tree/master/3660-jump-game-ix) |
 | [3719-longest-balanced-subarray-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rit0106/leetcodesubmission/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rit0106/leetcodesubmission/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [3660-jump-game-ix](https://github.com/Rit0106/leetcodesubmission/tree/master/3660-jump-game-ix) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Rit0106/leetcodesubmission/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Sliding Window
 |  |
