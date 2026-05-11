@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/Rit0106/leetcodesubmission/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Rit0106/leetcodesubmission/tree/master/2502-sort-the-people) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rit0106/leetcodesubmission/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Rit0106/leetcodesubmission/tree/master/2553-separate-the-digits-in-an-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Rit0106/leetcodesubmission/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2615-sum-of-distances](https://github.com/Rit0106/leetcodesubmission/tree/master/2615-sum-of-distances) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Rit0106/leetcodesubmission/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rit0106/leetcodesubmission/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Rit0106/leetcodesubmission/tree/master/2390-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Rit0106/leetcodesubmission/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rit0106/leetcodesubmission/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3028-ant-on-the-boundary](https://github.com/Rit0106/leetcodesubmission/tree/master/3028-ant-on-the-boundary) |
 | [3336-water-bottles-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/3336-water-bottles-ii) |
