@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/Rit0106/leetcodesubmission/tree/master/2625-increment-submatrices-by-one) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rit0106/leetcodesubmission/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rit0106/leetcodesubmission/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2784-check-if-array-is-good](https://github.com/Rit0106/leetcodesubmission/tree/master/2784-check-if-array-is-good) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2906-construct-product-matrix](https://github.com/Rit0106/leetcodesubmission/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rit0106/leetcodesubmission/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Rit0106/leetcodesubmission/tree/master/2502-sort-the-people) |
 | [2615-sum-of-distances](https://github.com/Rit0106/leetcodesubmission/tree/master/2615-sum-of-distances) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rit0106/leetcodesubmission/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2784-check-if-array-is-good](https://github.com/Rit0106/leetcodesubmission/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/3412-permutation-difference-between-two-strings) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Rit0106/leetcodesubmission/tree/master/2502-sort-the-people) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Rit0106/leetcodesubmission/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2784-check-if-array-is-good](https://github.com/Rit0106/leetcodesubmission/tree/master/2784-check-if-array-is-good) |
 | [2887-sort-vowels-in-a-string](https://github.com/Rit0106/leetcodesubmission/tree/master/2887-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
