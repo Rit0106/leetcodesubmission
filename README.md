@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3853-merge-close-characters](https://github.com/Rit0106/leetcodesubmission/tree/master/3853-merge-close-characters) |
 | [3856-trim-trailing-vowels](https://github.com/Rit0106/leetcodesubmission/tree/master/3856-trim-trailing-vowels) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rit0106/leetcodesubmission/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3931-check-adjacent-digit-differences](https://github.com/Rit0106/leetcodesubmission/tree/master/3931-check-adjacent-digit-differences) |
 ## Simulation
 |  |
 | ------- |
