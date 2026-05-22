@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Rit0106/leetcodesubmission/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/Rit0106/leetcodesubmission/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/3871-count-commas-in-range-ii) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/Rit0106/leetcodesubmission/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Enumeration
 |  |
 | ------- |
@@ -799,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Rit0106/leetcodesubmission/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3453-separate-squares-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3453-separate-squares-i) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/Rit0106/leetcodesubmission/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Brainteaser
 |  |
 | ------- |
