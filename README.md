@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rit0106/leetcodesubmission/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Rit0106/leetcodesubmission/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1980-find-unique-binary-string](https://github.com/Rit0106/leetcodesubmission/tree/master/1980-find-unique-binary-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Rit0106/leetcodesubmission/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Rit0106/leetcodesubmission/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rit0106/leetcodesubmission/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Rit0106/leetcodesubmission/tree/master/2243-check-if-all-as-appears-before-all-bs) |
