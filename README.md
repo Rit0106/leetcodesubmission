@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Rit0106/leetcodesubmission/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Rit0106/leetcodesubmission/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Rit0106/leetcodesubmission/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Rit0106/leetcodesubmission/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/0451-sort-characters-by-frequency) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rit0106/leetcodesubmission/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Rit0106/leetcodesubmission/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Rit0106/leetcodesubmission/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rit0106/leetcodesubmission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Rit0106/leetcodesubmission/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Rit0106/leetcodesubmission/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Rit0106/leetcodesubmission/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/0451-sort-characters-by-frequency) |
