@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Rit0106/leetcodesubmission/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rit0106/leetcodesubmission/tree/master/0907-sum-of-subarray-minimums) |
 | [0908-smallest-range-i](https://github.com/Rit0106/leetcodesubmission/tree/master/0908-smallest-range-i) |
+| [0946-validate-stack-sequences](https://github.com/Rit0106/leetcodesubmission/tree/master/0946-validate-stack-sequences) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rit0106/leetcodesubmission/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Rit0106/leetcodesubmission/tree/master/1006-vowel-spellchecker) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Rit0106/leetcodesubmission/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Rit0106/leetcodesubmission/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/Rit0106/leetcodesubmission/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/Rit0106/leetcodesubmission/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/Rit0106/leetcodesubmission/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rit0106/leetcodesubmission/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Rit0106/leetcodesubmission/tree/master/1642-water-bottles) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Rit0106/leetcodesubmission/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Rit0106/leetcodesubmission/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rit0106/leetcodesubmission/tree/master/0907-sum-of-subarray-minimums) |
+| [0946-validate-stack-sequences](https://github.com/Rit0106/leetcodesubmission/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rit0106/leetcodesubmission/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
