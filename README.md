@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Rit0106/leetcodesubmission/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Rit0106/leetcodesubmission/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rit0106/leetcodesubmission/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Rit0106/leetcodesubmission/tree/master/0260-single-number-iii) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Rit0106/leetcodesubmission/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Rit0106/leetcodesubmission/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Rit0106/leetcodesubmission/tree/master/0409-longest-palindrome) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rit0106/leetcodesubmission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Rit0106/leetcodesubmission/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/Rit0106/leetcodesubmission/tree/master/0413-arithmetic-slices) |
 | [0658-find-k-closest-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rit0106/leetcodesubmission/tree/master/1046-max-consecutive-ones-iii) |
