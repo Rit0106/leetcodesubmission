@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Rit0106/leetcodesubmission/tree/master/0474-ones-and-zeroes) |
+| [0520-detect-capital](https://github.com/Rit0106/leetcodesubmission/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rit0106/leetcodesubmission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/Rit0106/leetcodesubmission/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Rit0106/leetcodesubmission/tree/master/0696-count-binary-substrings) |
