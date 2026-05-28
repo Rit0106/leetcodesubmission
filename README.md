@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Rit0106/leetcodesubmission/tree/master/1980-find-unique-binary-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Rit0106/leetcodesubmission/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Rit0106/leetcodesubmission/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2129-capitalize-the-title](https://github.com/Rit0106/leetcodesubmission/tree/master/2129-capitalize-the-title) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Rit0106/leetcodesubmission/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rit0106/leetcodesubmission/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Rit0106/leetcodesubmission/tree/master/2243-check-if-all-as-appears-before-all-bs) |
