@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Rit0106/leetcodesubmission/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Rit0106/leetcodesubmission/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Rit0106/leetcodesubmission/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rit0106/leetcodesubmission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/Rit0106/leetcodesubmission/tree/master/0611-valid-triangle-number) |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/Rit0106/leetcodesubmission/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Rit0106/leetcodesubmission/tree/master/0400-nth-digit) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Rit0106/leetcodesubmission/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Rit0106/leetcodesubmission/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Rit0106/leetcodesubmission/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/0658-find-k-closest-elements) |
