@@ -10,6 +10,7 @@ public:
                 int landdur= landDuration[i];
                 int waterstart=waterStartTime[j];
                 int waterdur= waterDuration[j];   
+                
                 int start1=landstart;
                 int end1=landstart+landdur;
                 int start2=max(end1,waterstart);
