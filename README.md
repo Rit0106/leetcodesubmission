@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Rit0106/leetcodesubmission/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Rit0106/leetcodesubmission/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Rit0106/leetcodesubmission/tree/master/3644-minimum-positive-sum-subarray) |
 | [3651-transformed-array](https://github.com/Rit0106/leetcodesubmission/tree/master/3651-transformed-array) |
 | [3660-jump-game-ix](https://github.com/Rit0106/leetcodesubmission/tree/master/3660-jump-game-ix) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Rit0106/leetcodesubmission/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Rit0106/leetcodesubmission/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/3745-maximize-expression-of-three-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Rit0106/leetcodesubmission/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/Rit0106/leetcodesubmission/tree/master/3778-transform-array-by-parity) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Rit0106/leetcodesubmission/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rit0106/leetcodesubmission/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Rit0106/leetcodesubmission/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/Rit0106/leetcodesubmission/tree/master/3794-reverse-string-prefix) |
 ## Greedy
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rit0106/leetcodesubmission/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Rit0106/leetcodesubmission/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/3745-maximize-expression-of-three-elements) |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/Rit0106/leetcodesubmission/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Rit0106/leetcodesubmission/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
@@ -830,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3453-separate-squares-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3453-separate-squares-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Rit0106/leetcodesubmission/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Brainteaser
 |  |
