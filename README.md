@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/Rit0106/leetcodesubmission/tree/master/0759-set-intersection-size-at-least-two) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Rit0106/leetcodesubmission/tree/master/0769-max-chunks-to-make-sorted) |
 | [0830-largest-triangle-area](https://github.com/Rit0106/leetcodesubmission/tree/master/0830-largest-triangle-area) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Rit0106/leetcodesubmission/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Rit0106/leetcodesubmission/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/Rit0106/leetcodesubmission/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rit0106/leetcodesubmission/tree/master/0907-sum-of-subarray-minimums) |
@@ -822,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Rit0106/leetcodesubmission/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Rit0106/leetcodesubmission/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/0658-find-k-closest-elements) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Rit0106/leetcodesubmission/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Rit0106/leetcodesubmission/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/Rit0106/leetcodesubmission/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rit0106/leetcodesubmission/tree/master/1046-max-consecutive-ones-iii) |
