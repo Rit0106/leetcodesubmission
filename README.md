@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Rit0106/leetcodesubmission/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Rit0106/leetcodesubmission/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Rit0106/leetcodesubmission/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Rit0106/leetcodesubmission/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Rit0106/leetcodesubmission/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rit0106/leetcodesubmission/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Rit0106/leetcodesubmission/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Rit0106/leetcodesubmission/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Rit0106/leetcodesubmission/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0229-majority-element-ii) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Rit0106/leetcodesubmission/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Rit0106/leetcodesubmission/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0148-sort-list) |
