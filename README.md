@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Rit0106/leetcodesubmission/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/Rit0106/leetcodesubmission/tree/master/0400-nth-digit) |
 | [0415-add-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Rit0106/leetcodesubmission/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Rit0106/leetcodesubmission/tree/master/0670-maximum-swap) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Rit0106/leetcodesubmission/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0445-add-two-numbers-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Rit0106/leetcodesubmission/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Rit0106/leetcodesubmission/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Rit0106/leetcodesubmission/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rit0106/leetcodesubmission/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Rit0106/leetcodesubmission/tree/master/0232-implement-queue-using-stacks) |
+| [0445-add-two-numbers-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Rit0106/leetcodesubmission/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Rit0106/leetcodesubmission/tree/master/0739-daily-temperatures) |
