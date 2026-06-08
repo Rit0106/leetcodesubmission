@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Rit0106/leetcodesubmission/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/Rit0106/leetcodesubmission/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rit0106/leetcodesubmission/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2235-add-two-integers](https://github.com/Rit0106/leetcodesubmission/tree/master/2235-add-two-integers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Rit0106/leetcodesubmission/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rit0106/leetcodesubmission/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Rit0106/leetcodesubmission/tree/master/2432-number-of-zero-filled-subarrays) |
