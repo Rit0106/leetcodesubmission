@@ -677,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rit0106/leetcodesubmission/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Rit0106/leetcodesubmission/tree/master/0382-linked-list-random-node) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Rit0106/leetcodesubmission/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Rit0106/leetcodesubmission/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Rit0106/leetcodesubmission/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rit0106/leetcodesubmission/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Rit0106/leetcodesubmission/tree/master/0390-elimination-game) |
