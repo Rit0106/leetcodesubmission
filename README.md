@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3856-trim-trailing-vowels](https://github.com/Rit0106/leetcodesubmission/tree/master/3856-trim-trailing-vowels) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rit0106/leetcodesubmission/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3931-check-adjacent-digit-differences](https://github.com/Rit0106/leetcodesubmission/tree/master/3931-check-adjacent-digit-differences) |
+| [3941-password-strength](https://github.com/Rit0106/leetcodesubmission/tree/master/3941-password-strength) |
 ## Simulation
 |  |
 | ------- |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3866-first-unique-even-element](https://github.com/Rit0106/leetcodesubmission/tree/master/3866-first-unique-even-element) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Rit0106/leetcodesubmission/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rit0106/leetcodesubmission/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3941-password-strength](https://github.com/Rit0106/leetcodesubmission/tree/master/3941-password-strength) |
 ## Sorting
 |  |
 | ------- |
