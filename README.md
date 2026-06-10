@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Rit0106/leetcodesubmission/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3903-smallest-stable-index-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/3904-smallest-stable-index-ii) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Rit0106/leetcodesubmission/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Rit0106/leetcodesubmission/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/Rit0106/leetcodesubmission/tree/master/3794-reverse-string-prefix) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Rit0106/leetcodesubmission/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Greedy
 |  |
 | ------- |
