@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rit0106/leetcodesubmission/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rit0106/leetcodesubmission/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Rit0106/leetcodesubmission/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Rit0106/leetcodesubmission/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Rit0106/leetcodesubmission/tree/master/0451-sort-characters-by-frequency) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Rit0106/leetcodesubmission/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Rit0106/leetcodesubmission/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rit0106/leetcodesubmission/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Rit0106/leetcodesubmission/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Rit0106/leetcodesubmission/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Rit0106/leetcodesubmission/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/0658-find-k-closest-elements) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rit0106/leetcodesubmission/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Rit0106/leetcodesubmission/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rit0106/leetcodesubmission/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/Rit0106/leetcodesubmission/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Rit0106/leetcodesubmission/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Rit0106/leetcodesubmission/tree/master/0413-arithmetic-slices) |
