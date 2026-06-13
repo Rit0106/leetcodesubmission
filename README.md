@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/Rit0106/leetcodesubmission/tree/master/0400-nth-digit) |
 | [0415-add-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0445-add-two-numbers-ii) |
+| [0509-fibonacci-number](https://github.com/Rit0106/leetcodesubmission/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Rit0106/leetcodesubmission/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Rit0106/leetcodesubmission/tree/master/0670-maximum-swap) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Rit0106/leetcodesubmission/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rit0106/leetcodesubmission/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Rit0106/leetcodesubmission/tree/master/0390-elimination-game) |
+| [0509-fibonacci-number](https://github.com/Rit0106/leetcodesubmission/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rit0106/leetcodesubmission/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Rit0106/leetcodesubmission/tree/master/2050-count-good-numbers) |
 ## Stack
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Rit0106/leetcodesubmission/tree/master/0413-arithmetic-slices) |
 | [0474-ones-and-zeroes](https://github.com/Rit0106/leetcodesubmission/tree/master/0474-ones-and-zeroes) |
+| [0509-fibonacci-number](https://github.com/Rit0106/leetcodesubmission/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Rit0106/leetcodesubmission/tree/master/0788-rotated-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rit0106/leetcodesubmission/tree/master/0907-sum-of-subarray-minimums) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rit0106/leetcodesubmission/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -995,4 +998,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Rit0106/leetcodesubmission/tree/master/0382-linked-list-random-node) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rit0106/leetcodesubmission/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
