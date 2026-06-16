@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Rit0106/leetcodesubmission/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Rit0106/leetcodesubmission/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rit0106/leetcodesubmission/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/Rit0106/leetcodesubmission/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Rit0106/leetcodesubmission/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/Rit0106/leetcodesubmission/tree/master/0735-asteroid-collision) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Rit0106/leetcodesubmission/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/Rit0106/leetcodesubmission/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Rit0106/leetcodesubmission/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Rit0106/leetcodesubmission/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/Rit0106/leetcodesubmission/tree/master/0670-maximum-swap) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Rit0106/leetcodesubmission/tree/master/0759-set-intersection-size-at-least-two) |
