@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Rit0106/leetcodesubmission/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Rit0106/leetcodesubmission/tree/master/0812-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Rit0106/leetcodesubmission/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rit0106/leetcodesubmission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/Rit0106/leetcodesubmission/tree/master/1006-vowel-spellchecker) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rit0106/leetcodesubmission/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Rit0106/leetcodesubmission/tree/master/0670-maximum-swap) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Rit0106/leetcodesubmission/tree/master/0759-set-intersection-size-at-least-two) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Rit0106/leetcodesubmission/tree/master/0769-max-chunks-to-make-sorted) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rit0106/leetcodesubmission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/Rit0106/leetcodesubmission/tree/master/1018-largest-perimeter-triangle) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Rit0106/leetcodesubmission/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Rit0106/leetcodesubmission/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rit0106/leetcodesubmission/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rit0106/leetcodesubmission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Rit0106/leetcodesubmission/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rit0106/leetcodesubmission/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rit0106/leetcodesubmission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
