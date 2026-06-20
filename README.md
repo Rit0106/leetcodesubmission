@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/Rit0106/leetcodesubmission/tree/master/0400-nth-digit) |
 | [0415-add-strings](https://github.com/Rit0106/leetcodesubmission/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0445-add-two-numbers-ii) |
+| [0507-perfect-number](https://github.com/Rit0106/leetcodesubmission/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Rit0106/leetcodesubmission/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Rit0106/leetcodesubmission/tree/master/0633-sum-of-square-numbers) |
