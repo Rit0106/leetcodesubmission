@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-transformed-array](https://github.com/Rit0106/leetcodesubmission/tree/master/3651-transformed-array) |
 | [3660-jump-game-ix](https://github.com/Rit0106/leetcodesubmission/tree/master/3660-jump-game-ix) |
 | [3719-longest-balanced-subarray-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/3745-maximize-expression-of-three-elements) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Rit0106/leetcodesubmission/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rit0106/leetcodesubmission/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/Rit0106/leetcodesubmission/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Rit0106/leetcodesubmission/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3778-transform-array-by-parity](https://github.com/Rit0106/leetcodesubmission/tree/master/3778-transform-array-by-parity) |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/Rit0106/leetcodesubmission/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
@@ -772,11 +775,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/Rit0106/leetcodesubmission/tree/master/0761-special-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rit0106/leetcodesubmission/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Rit0106/leetcodesubmission/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -849,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3546-equal-sum-grid-partition-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Rit0106/leetcodesubmission/tree/master/3644-minimum-positive-sum-subarray) |
 | [3719-longest-balanced-subarray-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Rit0106/leetcodesubmission/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Rit0106/leetcodesubmission/tree/master/3862-find-the-smallest-balanced-index) |
 ## Matrix
@@ -983,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rit0106/leetcodesubmission/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Rolling Hash
 |  |
 | ------- |
