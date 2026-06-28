@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Rit0106/leetcodesubmission/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Rit0106/leetcodesubmission/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Rit0106/leetcodesubmission/tree/master/0658-find-k-closest-elements) |
+| [0724-find-pivot-index](https://github.com/Rit0106/leetcodesubmission/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Rit0106/leetcodesubmission/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Rit0106/leetcodesubmission/tree/master/0739-daily-temperatures) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Rit0106/leetcodesubmission/tree/master/0759-set-intersection-size-at-least-two) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Rit0106/leetcodesubmission/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0523-continuous-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Rit0106/leetcodesubmission/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rit0106/leetcodesubmission/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rit0106/leetcodesubmission/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/Rit0106/leetcodesubmission/tree/master/1590-make-sum-divisible-by-p) |
