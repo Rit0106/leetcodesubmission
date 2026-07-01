@@ -681,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Rit0106/leetcodesubmission/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Rit0106/leetcodesubmission/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/Rit0106/leetcodesubmission/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/Rit0106/leetcodesubmission/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Rit0106/leetcodesubmission/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Rit0106/leetcodesubmission/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rit0106/leetcodesubmission/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rit0106/leetcodesubmission/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Rit0106/leetcodesubmission/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rit0106/leetcodesubmission/tree/master/0042-trapping-rain-water) |
+| [0338-counting-bits](https://github.com/Rit0106/leetcodesubmission/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Rit0106/leetcodesubmission/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Rit0106/leetcodesubmission/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Rit0106/leetcodesubmission/tree/master/0410-split-array-largest-sum) |
